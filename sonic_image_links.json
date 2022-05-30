@@ -78,11 +78,11 @@
   "date": "2022-05-29T08:00:06.5402732Z"
  },
 "sonic-marvell-armhf.bin": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzEwNDEzMS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5tYXJ2ZWxsLWFybWhm0/content?format=file&subpath=/target/sonic-marvell-armhf.bin",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=104131&view=results",
- "diff": "https://github.com/Azure/sonic-buildimage/compare/2faa69eed23dd17b488d49c927288decc9d0632f...29043ff026a815e1fea338759ff05491c48e2f03",
-  "build": "104131",
-  "date": "2022-05-29T04:00:33.8522796Z"
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzEwNDQyOC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5tYXJ2ZWxsLWFybWhm0/content?format=file&subpath=/target/sonic-marvell-armhf.bin",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=104428&view=results",
+ "diff": "https://github.com/Azure/sonic-buildimage/compare/29043ff026a815e1fea338759ff05491c48e2f03...ed27eff71fe4bff53fce995a52c45b56362ab340",
+  "build": "104428",
+  "date": "2022-05-30T04:00:21.6497026Z"
  },
 "sonic-nephos.bin": {
   "url": "",
