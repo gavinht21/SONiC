@@ -282,14 +282,14 @@
 "sonic-broadcom.bin": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzEwNTE0MC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5icm9hZGNvbQ2/content?format=file&subpath=/target/sonic-broadcom.bin",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=105140&view=results",
- "diff": "https://github.com/Azure/sonic-buildimage/compare/...5c5c13a53638724866a8c55e10c3373f46ca3a9c",
+ "diff": "https://github.com/Azure/sonic-buildimage/compare/5c5c13a53638724866a8c55e10c3373f46ca3a9c...5c5c13a53638724866a8c55e10c3373f46ca3a9c",
   "build": "105140",
   "date": "2022-06-01T02:08:55.0576796Z"
  },
 "sonic-aboot-broadcom.swi": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzEwNTE0MC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5icm9hZGNvbQ2/content?format=file&subpath=/target/sonic-aboot-broadcom.swi",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=105140&view=results",
- "diff": "https://github.com/Azure/sonic-buildimage/compare/...5c5c13a53638724866a8c55e10c3373f46ca3a9c",
+ "diff": "https://github.com/Azure/sonic-buildimage/compare/5c5c13a53638724866a8c55e10c3373f46ca3a9c...5c5c13a53638724866a8c55e10c3373f46ca3a9c",
   "build": "105140",
   "date": "2022-06-01T02:08:55.0576796Z"
  },
