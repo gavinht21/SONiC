@@ -666,7 +666,7 @@ This builtin uses embedded python approach.
 
 Format of ACTION tag argument:
 <module> <function> <args>
-(<module> is the actioner script without the extension. The name cannot include "-")
+(<module> __is the actioner script without the extension. The name cannot include "-"__)
 
 Example:
 ```
