@@ -592,6 +592,7 @@ After macro substitution:
 
 ###### 3.2.2.1.4 ENTITY
 XML files can include an ENTITY that refers to a predefined value. Entity is typically used to define platform specific values and processed by `klish_platform_features_process.sh` to prepend the ENTITY values to the target XML files. By default, there is a default file called `platform_dummy.XML` that defines a platform default ENTITY list. Note that the platform specific is not supported yet.
+	`类似宏定义`
 
 Example: `platform_dummy.XML`
 
